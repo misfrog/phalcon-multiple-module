@@ -1,2 +1,6 @@
 /cache/
 /config/development/
+.project
+/vendor
+composer.phar
+composer.lock
